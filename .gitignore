@@ -1,0 +1,5 @@
+.meteor/local
+.meteor/meteorite
+# just as a safety procaution.
+# shouldn't ever need this file for this package.
+settings.json
